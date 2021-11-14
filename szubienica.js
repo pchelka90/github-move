@@ -1,4 +1,4 @@
-var haslo = "Bez pracy nie ma kołaczy";
+var haslo = "No pain, no gain!";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
